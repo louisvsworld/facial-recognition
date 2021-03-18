@@ -1,2 +1,2 @@
-# face-recognition
- face recognition program using opencv
+# Libraries
+### [opencv](https://opencv.org/)
